@@ -5,8 +5,7 @@
     "start": "node index.js"
   },
   "description": "",
-  "devDependencies": {
-  },
+  "devDependencies": {},
   "author": "",
   "license": "MIT",
   "dependencies": {
